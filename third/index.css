@@ -1,0 +1,61 @@
+body{
+margin: 0 auto;
+height: vh;
+width: vw;
+position: relative;
+}
+
+.childone{
+    background: lightgrey;
+    height: 15vh;
+    width: 100vw;
+}
+
+.menubutton{
+    background: royalblue;
+    height: 125px;
+    width: 125px;
+    margin-left: 25px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.childtwo{
+    background: white;
+    height: 25vh;
+    width: 100vw;
+}
+
+.advice{
+    text-align: left;
+    width: 85vw;
+    font-size: 25px;
+    margin: auto;
+    padding-top: 50px
+    
+}
+
+.childthree{
+    background: royalblue;
+    height: 15vh;
+    width: 100vw;    
+}
+
+.childfour{
+    background:  aqua;
+    height: 15vh;
+    width: 100vw;
+}
+
+.childfive{
+    background: yellowgreen;
+    height: 15vh;
+    width: 100vw;
+}
+
+.childsix{
+    background: yellow;
+    height: 15vh;
+    width: 100vw;
+}
+
